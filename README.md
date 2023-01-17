@@ -5,5 +5,4 @@
 - 📫 How to reach me ... dlwhddksiq@naver.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJongAnn&&show_icons=true&theme=cobalt)
 
