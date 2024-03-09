@@ -1,8 +1,8 @@
-### <div align=center><h1> 👋 Hi, I’m 이종안입니다.
- 👀 I’m interested in ... 음악감상 드라이브 유튜브 보기 좋아해요
- 🌱 I’m currently learning ... 스프링과 자바에 관심이 있습니다.
- 💞️ I’m looking to collaborate on ... 열정있고 친절한 사람들과 일하고 싶습니다.
- 📫 How to reach me ... dlwhddksiq@naver.com</h1></div>
+### <div align=center><h1> 👋 Hi, I’m 이종안입니다.  <br>
+ 👀 I’m interested in ... 음악감상 드라이브 유튜브 보기 좋아해요   <br>
+ 🌱 I’m currently learning ... 스프링과 자바에 관심이 있습니다.   <br>
+ 💞️ I’m looking to collaborate on ... 열정있고 친절한 사람들과 일하고 싶습니다.   <br>
+ 📫 How to reach me ... dlwhddksiq@naver.com</h1></div>   <br>
 
 <div align=center> 
 
